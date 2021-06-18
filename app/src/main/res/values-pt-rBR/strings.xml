@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Farmácia NOW</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hintEtCodigoCupom">Produto</string>
+    <string name="hintDtDataValidade">Preço</string>
+    <string name="hintnbValorDesconto">Quantidade</string>
+    <string name="TextBtnSalvar">Adicionar ao carrinho</string>
+    <string name="TextTvListaCodigoCupom">Produto</string>
+    <string name="TextTvListaDataValidade">Preço</string>
+    <string name="TextTvListaValorDesconto">Quantidade</string>
+    <string name="txtAtencao">ATENÇÃO: Essa operação não pode ser desfeita !</string>
+    <string name="txtConfirmaExclusao">Confirma a exclusão do produto </string>
+    <string name="txtBotaoCancelar">Cancelar</string>
+    <string name="txtBotaoSim">Sim</string>
+
+    <string name="txtMenuButtonProducts">Produtos</string>
+    <string name="txtMenuButtonOrders">Pedidos</string>
+    <string name="txtMenuButtonCart">Carrinho</string>
+    <string name="txtMenuButtonClose">Fechar</string>
+    <string name="txtMenuButtonAddToCart">Add to Cart</string>
+
+    <string name="txtLabelProduct">Nome</string>
+    <string name="txtLabelPrice">Preço</string>
+    <string name="txtLabelQuantity">Qtd.</string>
+    <string name="txtOrderCreatedLabel">Pedido</string>
+</resources>

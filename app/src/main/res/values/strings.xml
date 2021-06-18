@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Farmácia Now</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintEtCodigoCupom">Product</string>
+    <string name="hintDtDataValidade">Price</string>
+    <string name="hintnbValorDesconto">Quantity</string>
+    <string name="TextBtnSalvar">Add to cart</string>
+    <string name="TextTvListaCodigoCupom">Product</string>
+    <string name="TextTvListaDataValidade">Price</string>
+    <string name="TextTvListaValorDesconto">Quantity</string>
+    <string name="txtAtencao">WARNING: This operation cannot be undone !</string>
+    <string name="txtConfirmaExclusao">Click YES to confirm the deletion of the Product</string>
+    <string name="txtBotaoCancelar">Cancel</string>
+    <string name="txtBotaoSim">Yes</string>
+
+    <string name="txtMenuButtonProducts">Products</string>
+    <string name="txtMenuButtonOrders">Orders</string>
+    <string name="txtMenuButtonCart">Cart</string>
+    <string name="txtMenuButtonClose">Close</string>
+    <string name="txtMenuButtonAddToCart">Add to Cart</string>
+
+    <string name="txtLabelProduct">Name</string>
+    <string name="txtLabelPrice">Price</string>
+    <string name="txtLabelQuantity">Quantity</string>
+
+    <string name="txtOrderCreatedLabel">Order</string>
+</resources>
